@@ -1,5 +1,5 @@
 - 👋 Bonjour je suis Bhoyesylla625
-- Je suis passionné par tous ceux qui est de l'informatique
+- Je suis passionné par tous ceux qui est de developpement Web bases de données et applications et surtout la cybersecurité.
 - Je suis intéressé également par les différents projets auxquels vous me soumettrez
 - Je suis étudiant en génie informatique.
 - J'adore participer à des projets innovant et créatifs.
